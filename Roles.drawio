@@ -1,17 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram name="Página-1" id="piM3PB3O7zECQDfgPzs4">
-    <mxGraphModel dx="702" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="842" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-1" target="lmFqdas1ITUXmB06_ZZ9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-1" target="lmFqdas1ITUXmB06_ZZ9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-1" target="lmFqdas1ITUXmB06_ZZ9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-1" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="30" height="60" as="geometry" />
+          <mxGeometry x="190" y="220" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-6" value="Reagendar viajes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="260" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-7" target="lmFqdas1ITUXmB06_ZZ9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-7" target="lmFqdas1ITUXmB06_ZZ9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-7" value="Administracion de rentas del Barco" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-8" target="lmFqdas1ITUXmB06_ZZ9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-8" target="lmFqdas1ITUXmB06_ZZ9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-8" target="lmFqdas1ITUXmB06_ZZ9-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-8" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Ver Barcos&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="20" width="120" height="80" as="geometry" />
@@ -25,20 +49,29 @@
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-12" value="Añadir o quitar barcos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="-120" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-13" target="lmFqdas1ITUXmB06_ZZ9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-13" value="Añadir viajes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-16" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Cada viaje se guardadra en la base de datos, sera una card dentro de una vista de calendario, en esta tendra gente a bordo, horas y servicio rentados, Al guardar el biaje se le mandara una requisicion al capitan para que anote las horas de motor y de los generadores,&lt;/span&gt;&lt;div&gt;Los viajes modificaran la contabilidad y las alertas para los mantenimientos y las horas de los motores de cada barco&lt;/div&gt;&lt;div&gt;Las horas seran para los mantenimientos del barco&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="150" width="350" height="140" as="geometry" />
+          <mxGeometry x="660" y="140" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-18" target="lmFqdas1ITUXmB06_ZZ9-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-18" value="Administrar historial de mantenimientos&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lmFqdas1ITUXmB06_ZZ9-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lmFqdas1ITUXmB06_ZZ9-19" target="lmFqdas1ITUXmB06_ZZ9-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-19" value="Tener cronlogia de servicios y mantenimientos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lmFqdas1ITUXmB06_ZZ9-20" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Tener lista de pendientes de problemas como github, requisicion del capitan y solucion, tendra vista de cuadro donde cada cosa tendra su decripcion&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="390" width="410" height="60" as="geometry" />
+          <mxGeometry x="620" y="410" width="410" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
